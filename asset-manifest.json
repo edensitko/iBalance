@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ibalance/static/css/main.175ab5c1.css",
-    "main.js": "/ibalance/static/js/main.69e9e678.js",
-    "static/js/787.2ff21f4a.chunk.js": "/ibalance/static/js/787.2ff21f4a.chunk.js",
-    "static/media/MainHome.png": "/ibalance/static/media/MainHome.af7e0ac1c676752ff536.png",
-    "index.html": "/ibalance/index.html",
-    "main.175ab5c1.css.map": "/ibalance/static/css/main.175ab5c1.css.map",
-    "main.69e9e678.js.map": "/ibalance/static/js/main.69e9e678.js.map",
-    "787.2ff21f4a.chunk.js.map": "/ibalance/static/js/787.2ff21f4a.chunk.js.map"
+    "main.css": "/ibalance/signup/static/css/main.175ab5c1.css",
+    "main.js": "/ibalance/signup/static/js/main.f9aff3dc.js",
+    "static/js/787.2ff21f4a.chunk.js": "/ibalance/signup/static/js/787.2ff21f4a.chunk.js",
+    "static/media/MainHome.png": "/ibalance/signup/static/media/MainHome.af7e0ac1c676752ff536.png",
+    "index.html": "/ibalance/signup/index.html",
+    "main.175ab5c1.css.map": "/ibalance/signup/static/css/main.175ab5c1.css.map",
+    "main.f9aff3dc.js.map": "/ibalance/signup/static/js/main.f9aff3dc.js.map",
+    "787.2ff21f4a.chunk.js.map": "/ibalance/signup/static/js/787.2ff21f4a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.175ab5c1.css",
-    "static/js/main.69e9e678.js"
+    "static/js/main.f9aff3dc.js"
   ]
 }
