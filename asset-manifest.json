@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.e43d8e01.css",
-    "main.js": "/react-gh-pages/static/js/main.337d8505.js",
-    "static/js/787.2ff21f4a.chunk.js": "/react-gh-pages/static/js/787.2ff21f4a.chunk.js",
-    "static/media/MainHome.png": "/react-gh-pages/static/media/MainHome.af7e0ac1c676752ff536.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.e43d8e01.css.map": "/react-gh-pages/static/css/main.e43d8e01.css.map",
-    "main.337d8505.js.map": "/react-gh-pages/static/js/main.337d8505.js.map",
-    "787.2ff21f4a.chunk.js.map": "/react-gh-pages/static/js/787.2ff21f4a.chunk.js.map"
+    "main.css": "/iBalance/static/css/main.e43d8e01.css",
+    "main.js": "/iBalance/static/js/main.1074b12e.js",
+    "static/js/787.2ff21f4a.chunk.js": "/iBalance/static/js/787.2ff21f4a.chunk.js",
+    "static/media/MainHome.png": "/iBalance/static/media/MainHome.af7e0ac1c676752ff536.png",
+    "index.html": "/iBalance/index.html",
+    "main.e43d8e01.css.map": "/iBalance/static/css/main.e43d8e01.css.map",
+    "main.1074b12e.js.map": "/iBalance/static/js/main.1074b12e.js.map",
+    "787.2ff21f4a.chunk.js.map": "/iBalance/static/js/787.2ff21f4a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e43d8e01.css",
-    "static/js/main.337d8505.js"
+    "static/js/main.1074b12e.js"
   ]
 }
