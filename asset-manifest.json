@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.css": "/iBalance/static/css/main.ec450617.css",
-    "main.js": "/iBalance/static/js/main.52c16cc6.js",
-    "static/js/787.2ff21f4a.chunk.js": "/iBalance/static/js/787.2ff21f4a.chunk.js",
-    "static/media/MainHome.png": "/iBalance/static/media/MainHome.af7e0ac1c676752ff536.png",
-    "static/media/broke.png": "/iBalance/static/media/broke.2c68d5e22453ea8aa43f.png",
-    "index.html": "/iBalance/index.html",
-    "main.ec450617.css.map": "/iBalance/static/css/main.ec450617.css.map",
-    "main.52c16cc6.js.map": "/iBalance/static/js/main.52c16cc6.js.map",
-    "787.2ff21f4a.chunk.js.map": "/iBalance/static/js/787.2ff21f4a.chunk.js.map"
+    "main.css": "/ibalance/static/css/main.e43d8e01.css",
+    "main.js": "/ibalance/static/js/main.7def731d.js",
+    "static/js/787.2ff21f4a.chunk.js": "/ibalance/static/js/787.2ff21f4a.chunk.js",
+    "static/media/MainHome.png": "/ibalance/static/media/MainHome.af7e0ac1c676752ff536.png",
+    "index.html": "/ibalance/index.html",
+    "main.e43d8e01.css.map": "/ibalance/static/css/main.e43d8e01.css.map",
+    "main.7def731d.js.map": "/ibalance/static/js/main.7def731d.js.map",
+    "787.2ff21f4a.chunk.js.map": "/ibalance/static/js/787.2ff21f4a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec450617.css",
-    "static/js/main.52c16cc6.js"
+    "static/css/main.e43d8e01.css",
+    "static/js/main.7def731d.js"
   ]
 }
