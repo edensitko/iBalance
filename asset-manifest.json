@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/iBalance/static/css/main.c259c9a6.css",
-    "main.js": "/iBalance/static/js/main.891efd89.js",
+    "main.js": "/iBalance/static/js/main.7247697b.js",
     "static/js/787.98460ce8.chunk.js": "/iBalance/static/js/787.98460ce8.chunk.js",
     "static/media/MainHome.png": "/iBalance/static/media/MainHome.af7e0ac1c676752ff536.png",
     "index.html": "/iBalance/index.html",
     "main.c259c9a6.css.map": "/iBalance/static/css/main.c259c9a6.css.map",
-    "main.891efd89.js.map": "/iBalance/static/js/main.891efd89.js.map",
+    "main.7247697b.js.map": "/iBalance/static/js/main.7247697b.js.map",
     "787.98460ce8.chunk.js.map": "/iBalance/static/js/787.98460ce8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c259c9a6.css",
-    "static/js/main.891efd89.js"
+    "static/js/main.7247697b.js"
   ]
 }
