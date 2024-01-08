@@ -1,0 +1,48 @@
+{
+    
+    "title": "iBalance",
+    "buttonText": "change language",
+    "login":"login",
+    "signup":"signUp",
+    "logout":"LogOut",
+    "home":"home",
+    "balance":"my balance",
+    "transaction":"choose Transaction Type",
+    "transactionName":"Transaction name",
+    "addtransaction":"add transaction",
+    "expense":"Expense",
+    "income":"income",
+    "amount":"amount",
+    "delete":"delete",
+    "total":"total",
+    "info":"welcome, ",
+    "footer":"All rights reserved to eden sitkovetsky", 
+    "email": "email",
+    "password": "password",
+    "yourName":"your name",
+    "user":"have user ?",
+    "user1":"don't have user ?",
+    "loading": "loading...",
+    "reportsInfo":"Hi , " ,
+    "edit":"Edit",
+    "yourReports":"Edit",
+    "repoInfo":"In this page, you can see your balance by day, month, incomes, expenses, and more! Check out your money dealings and learn your transactions to be better and grow financially!",
+    "yourrepo":"your Reports :",
+    "date":"date",
+    "cancel": "cancel",
+"saveChanges":"save changes",
+"filterByOption":"Filter By Option",
+"filterByDate":" Search By Date",
+"resetFilters":" reset filters",
+"kindTra":"option",
+"noData":" There is no data to show, please add transactions on the",
+"hoempage":"home page",
+"expenses":"expenses",
+"incomes":"incomes",
+"firstG":"your balance over the days"
+
+
+    
+
+  }
+  

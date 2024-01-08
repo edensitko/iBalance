@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/iBalance/static/css/main.d8807016.css",
+    "main.js": "/iBalance/static/js/main.8df05438.js",
+    "static/js/787.98460ce8.chunk.js": "/iBalance/static/js/787.98460ce8.chunk.js",
+    "static/media/MainHome.png": "/iBalance/static/media/MainHome.af7e0ac1c676752ff536.png",
+    "static/media/usa.jpg": "/iBalance/static/media/usa.47051522011b49414569.jpg",
+    "static/media/maindes.jpg": "/iBalance/static/media/maindes.2c68d5e22453ea8aa43f.jpg",
+    "static/media/israel.jpg": "/iBalance/static/media/israel.4b1c16761f15029bdf86.jpg",
+    "index.html": "/iBalance/index.html",
+    "main.d8807016.css.map": "/iBalance/static/css/main.d8807016.css.map",
+    "main.8df05438.js.map": "/iBalance/static/js/main.8df05438.js.map",
+    "787.98460ce8.chunk.js.map": "/iBalance/static/js/787.98460ce8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8807016.css",
+    "static/js/main.8df05438.js"
+  ]
+}
