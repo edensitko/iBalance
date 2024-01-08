@@ -1,6 +1,5 @@
 import React from 'react';
 import Footer from '../footer/Footer';
-import { Routes } from 'react-router-dom';
 import MainRoutes from '../routes/MainRoutes';
 import { useAuthContext } from '../../../hooks/useAuthContext';
 import useTheme from '../../../hooks/useTheme';

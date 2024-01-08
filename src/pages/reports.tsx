@@ -25,13 +25,12 @@ const Reports: React.FC = () => {
   const [chartData, setChartData] = useState<any[]>([]);
   const { t } = useTranslation();
   const { mode } = useTheme();
-  const [selectedMonth, setSelectedMonth] = useState<Date | null>(new Date());
+  const [, setSelectedMonth] = useState<Date | null>(new Date());
   const [selectedOption, setSelectedOption] = useState<string | null>(null);
   const [searchName, setSearchName] = useState<string | null>(null);
   const [filteredDatas, setFilteredData] = useState<Array<any>>([]);
   const [expenseData, setExpenseData] = useState<any[]>([]);
   const [incomeData, setIncomeData] = useState<any[]>([]);
-  const formattedData: any[] = [];
 
   // sorting the transaction 
   const sortTransactions = (transactions: Transaction[]) => {
