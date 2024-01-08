@@ -34,7 +34,7 @@
   },
   "scripts": {
     "start": "react-scripts start ",
-    "build": "react-scripts build",
+    "build": "npm run build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
@@ -59,8 +59,12 @@
     ]
   },
   "devDependencies": {
+    "@jridgewell/sourcemap-codec": "^1.4.15",
+    "@rollup/plugin-terser": "^0.4.4",
     "@types/react-datepicker": "^4.19.5",
     "@types/react-router-dom": "^5.3.3",
-    "gh-pages": "^5.0.0"
+    "gh-pages": "^5.0.0",
+    "svgo": "^2.8.0",
+    "workbox": "^0.0.0"
   }
 }
